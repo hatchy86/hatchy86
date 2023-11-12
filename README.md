@@ -1,6 +1,7 @@
-<h1>Hi, I'm Kelvin! </h1>
+<h1>Hi, I'm Kelvin, I am working towards a career in Cybersecurity/Networking. </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2>👨‍💻 Cybersecurity/Networking Projects:</h2>
 
 
 
